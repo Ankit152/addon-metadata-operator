@@ -11,8 +11,8 @@ require (
 	github.com/mt-sre/client v0.2.0
 	github.com/mt-sre/go-ci v0.6.1
 	github.com/novln/docker-parser v1.0.0
-	github.com/onsi/ginkgo/v2 v2.4.0
-	github.com/onsi/gomega v1.23.0
+	github.com/onsi/ginkgo/v2 v2.5.1
+	github.com/onsi/gomega v1.24.0
 	github.com/openshift-online/ocm-sdk-go v0.1.290
 	github.com/operator-framework/api v0.17.1
 	github.com/operator-framework/operator-registry v1.26.2
@@ -130,7 +130,7 @@ require (
 	go.uber.org/atomic v1.7.0 // indirect
 	golang.org/x/net v0.1.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
-	golang.org/x/sys v0.1.0 // indirect
+	golang.org/x/sys v0.2.0 // indirect
 	golang.org/x/term v0.1.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
 	golang.org/x/time v0.0.0-20220609170525-579cf78fd858 // indirect
